@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperatingSystemBuildNumbers>
+    <Supported>19041</Supported>
+	<UnSupported>17763</UnSupported>
+</OperatingSystemBuildNumbers>
