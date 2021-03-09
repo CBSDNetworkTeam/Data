@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestartReminder>
+    <Warning1>15</Warning1>
+	<Warning2>25</Warning2>
+	<RestartWarning>30</RestartWarning>
+</RestartReminder>
