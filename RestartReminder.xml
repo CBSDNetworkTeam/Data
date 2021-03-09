@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RestartReminder>
-    <Warning1>15</Warning1>
+    	<Warning1>15</Warning1>
 	<Warning2>25</Warning2>
 	<RestartWarning>7</RestartWarning>
-<HourMinuteWarning>9:00:00 AM</HourMinuteWarning>
+	<HourMinuteWarning>9:00:00 AM</HourMinuteWarning>
 </RestartReminder>
